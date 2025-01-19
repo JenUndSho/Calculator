@@ -1,6 +1,6 @@
 First UIKit project
 
-<img src="preview_images/test_1.png" width="100" height="200">
+<img src="preview_images/test_1.png" width="150" height="250">
 
 ![Test_1](preview_images/test_2.png)
 
